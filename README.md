@@ -1,5 +1,5 @@
 # Exercise-01b-Prompt-and-Response
-Exercise for MSCH-C220, 26 August 2021
+Exercise for David Vaughn, 26 August 2021
 
 A demonstration of this exercise is available at [https://youtu.be/O1lcQZpKMRM](https://youtu.be/O1lcQZpKMRM).
 
